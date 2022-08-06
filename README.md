@@ -1,5 +1,7 @@
-# Analytics-Exploratory-Data-Analysis-Data-Visualization-Microsoft-Excel-Data-Manipulation-Presentati
-## Microsoft Excel Data Manipulation, Presentation, and Analysis
+## Data Analytics Excel Learnings
+
+## Excel Data Manipulation, Presentation, and Analysis
+
 Microsoft Excel offers a robust array of data munging and analytics tools. This skill will help you use these tools to their greatest effect as you collect, explore, analyze, visualize, and communicate your data using Microsoft Excel.
 
 Load data into an Excel workbook, and learn how to search and manipulate data in Excel.
